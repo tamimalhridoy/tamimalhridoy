@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tamim Al Hridoy</h1>
+<h1 align="center">I'm Tamim Al Hridoy</h1>
 <h3 align="center">Frontend Developer</h3>
+
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Frontend learning process**
 

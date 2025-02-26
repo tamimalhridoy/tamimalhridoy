@@ -1,5 +1,5 @@
 <h1 align="center">I'm Tamim Al Hridoy</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimalhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="tamimalhridoy" /> </p>
 
